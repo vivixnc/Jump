@@ -1,4 +1,4 @@
-# Jump
+<h2>Jump<h2>
 <p>Jump has a very similar goal to Doodle Jump. The player hops onto moving platforms, and it gets more difficult as the score increases. It's a very simple concept.<p>
   
 <h2>Background<h2>
